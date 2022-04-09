@@ -1,9 +1,12 @@
 import './App.css';
+import Nav from './comonents/Nav/Nav';
+import Cards from './comonents/Cards/Cards';
 
 function App() {
   return (
     <div className="App">
-      <h1>mi primera app</h1>
+      <Nav/>
+      <Cards/>
     </div>
   );
 }

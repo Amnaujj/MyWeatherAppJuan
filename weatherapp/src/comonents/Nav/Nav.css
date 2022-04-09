@@ -1,0 +1,7 @@
+.Nav{
+    height: 10vh;
+    background-color: rgb(185, 13, 13);
+    font-style: italic;
+    display: flex;
+    justify-content: space-around;
+}
