@@ -1,7 +1,10 @@
 .Nav{
-    height: 10vh;
-    background-color: rgb(185, 13, 13);
+    height: 7vh;
+    background: linear-gradient(0.25turn, #172e96, #694379);
     font-style: italic;
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+}
+.sBar{
+    margin-left: 75vmax;
 }

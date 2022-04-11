@@ -1,0 +1,10 @@
+.barra{
+    margin: 5px;
+    border-radius: 5px;
+}
+.boton{
+    color: rgb(135, 114, 212);
+    background-color: rgb(78, 78, 82);
+    text-decoration:double;
+    border-radius: 5px;
+}
